@@ -12,6 +12,9 @@
         android:theme="@style/Theme.Practik_work_5_PR21101_Ivanchikov"
         tools:targetApi="31">
         <activity
+            android:name=".MainActivity4"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity2"
             android:exported="false" />
         <activity
